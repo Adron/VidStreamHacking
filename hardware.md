@@ -1,13 +1,24 @@
 # Streaming Hardware
 
+Review of my overall gear and transit setup for recording in office and on the go.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oV_epAVIIcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Link: https://youtu.be/oV_epAVIIcY
+
 ## 2017 System 76 Leopard Workstation
+
+Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
 
 **Specifications**
 
-* Processor: 
-* RAM: 32 GB
-* Drive: 1 Tb SSD
-* Video: GeForce GTX 1080
+* 4.0 GHz i7-6850K (3.6 up to 4.0 GHz – 15 MB Cache – 6 Cores – 12 threads)
+* High Performance Self-Contained Liquid Cooler
+* 32 GB Quad Channel DDR4 at 2400MHz (2× 16 GB)
+* 8 GB GTX 1080 with 2560 CUDA Cores DVI-D, HDMI, 3× Display Port
+* Gigabit Ethernet
+* Audio Rear: 8 channel (HDMI, S/PDIF), Mic Jack, Line In, Line Out
+* Power Supply 750 W 80+ Certified
 
 ## 2015 Mac Book Pro
 
@@ -28,12 +39,15 @@
 
 ## 2015 Dell XPS 13
 
+Review One: https://compositecode.blog/2015/07/22/the-latest-5th-generation-dell-xps-13-developer-edition/
+Review Two: https://compositecode.blog/2018/07/04/dell-xps-13-re-review-of-existing-laptop/
+
 **Specifications**
 
 * Processor: 
 * RAM: 
-* Drive:
-* Video: 
+* Drive: 
+* Video: HiPDi Screen w/ 
 
 ## Mics
 

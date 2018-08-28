@@ -37,8 +37,8 @@ Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
 
 ## 2015 Dell XPS 13
 
-Review One: https://compositecode.blog/2015/07/22/the-latest-5th-generation-dell-xps-13-developer-edition/
-Review Two: https://compositecode.blog/2018/07/04/dell-xps-13-re-review-of-existing-laptop/
+* Review One: https://compositecode.blog/2015/07/22/the-latest-5th-generation-dell-xps-13-developer-edition/
+* Review Two: https://compositecode.blog/2018/07/04/dell-xps-13-re-review-of-existing-laptop/
 
 **Specifications**
 

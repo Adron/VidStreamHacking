@@ -1,8 +1,6 @@
 # Streaming Hardware
 
-Review of my overall gear and transit setup for recording in office and on the go.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oV_epAVIIcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Video overview of my overall gear and transit setup for recording in office and on the go.
 
 Link: https://youtu.be/oV_epAVIIcY
 

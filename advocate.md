@@ -1,6 +1,6 @@
-# Market Your Stream
+<> [README.md](README.md) <> ...
 
-[README.md](README.md)
+# Market Your Stream
 
 These are listed in an order to ensure they're effective and useful to those prospectively viewing your streams.
 

@@ -1,5 +1,7 @@
 # Market Your Stream
 
+[README.md](README.md)
+
 These are listed in an order to ensure they're effective and useful to those prospectively viewing your streams.
 
 1. Schedule your streams ahead of time. Setup that schedule and post the events on Twitch under the _events_ section. Post them via the dashboard events listing [here](https://www.twitch.tv/adronhall/dashboard/events) and view them via the follower interface [here](https://www.twitch.tv/adronhall/events).

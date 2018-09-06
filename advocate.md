@@ -11,6 +11,7 @@ These are listed in an order to ensure they're effective and useful to those pro
 5. [LinkedIn](https://www.linkedin.com/). Post in the feed. Possibly post in other locations depending on what you're connected with and to whom.
 6. [Google+](https://plus.google.com/). I suppose this is ... maybe not worth it but if you've got an account you might as well right?
 7. [Facebook](https://www.facebook.com/). Reluctantly, yes, one ought to post this on Facebook probably.
+8. Got an email newsletter or something like [Mailchimp](https://mailchimp.com/)? Send out when you schedule an event and the moment you go live (maybe? depending on what your newsletter is for).
 
 *Other Possible Mediums (I'm still researching their efficacy)*
 

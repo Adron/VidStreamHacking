@@ -1,3 +1,5 @@
+<> [README.md](README.md) <> ...
+
 # Streaming Hardware
 
 Video overview of my overall gear and transit setup for recording in office and on the go.
@@ -26,6 +28,7 @@ Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
 * RAM: 
 * Drive:
 * Video: 
+
 ## 2017 Mac Book Pro
 
 **Specifications**
@@ -45,7 +48,7 @@ Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
 * Processor: 
 * RAM: 
 * Drive: 
-* Video: HiPDi Screen w/ 
+* Video: HiPDi Screen
 
 ## Mics
 

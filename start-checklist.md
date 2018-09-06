@@ -1,3 +1,5 @@
+<> [README.md](README.md) <> ...
+
 # Startup Checklist
 
 This is a basic checklist of the things I go through before acutally starting any new stream.

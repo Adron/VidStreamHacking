@@ -3,9 +3,8 @@
 # Startup Checklist
 
 This is a basic checklist of the things I go through before acutally starting any new stream.
-| - [ ] | Task |
-|---|---|
-| - [ ] | Verify that OBS has the appropriate key setup for the stream. |
+
+ - [ ] Verify that OBS has the appropriate key setup for the stream.
  - [ ] Are all monitors set to the appropriate resolution.
  - [ ] Are all webcams running and actually set in position and available for transitioning?
  - [ ] Does OBS have the appropriate *sources* setup for the appropriate *scenes* for each respective transition.

@@ -25,3 +25,19 @@ These are listed in an order to ensure they're effective and useful to those pro
 * https://www.stream.me/
 * https://www.liveedu.tv/about/
 * http://www.ustream.tv/
+
+## Copy
+
+The copy & messaging should be useful, with links, and related material when posting on these mediums. For example, like this:
+
+📹 Starting a new coding hacking session right now.
+
+🤘🏻 Just thrashing for a few minutes waiting for others to join.
+
+📺 Live NOW [Follow] https://twitch.tv/adronhall/
+
+✍🏻 Will blog when it's wrapped: https://compositecode.blog/
+
+📽️ Live NOW & archived [subscribe]: https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ 
+
+#cloud #data #devops #video #developer #infrastructure #cloudcomputing #programming #coding 

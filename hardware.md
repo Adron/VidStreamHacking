@@ -26,17 +26,17 @@ Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
 
 * Processor: 
 * RAM: 
-* Drive:
+* Drive: 512 GB SSD
 * Video: 
 
 ## 2017 Mac Book Pro
 
 **Specifications**
 
-* Processor: 
-* RAM: 
-* Drive:
-* Video: 
+* Processor: 2.7 GHz Intel Core i7
+* RAM: 16 GB 2133 MHz LPDDR3
+* Drive: 512 GB SSD
+* Video: Intel HD Graphics 530 1536 MB @ 15.4" 2880x1880
 
 ## 2015 Dell XPS 13
 

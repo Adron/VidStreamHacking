@@ -10,6 +10,8 @@ Link: https://youtu.be/oV_epAVIIcY
 
 Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
 
+Sadly, as of last week (cember 15th~) this machine's power supply arced out over a surge or something. A replacement power supply has arrived, which I swapped out, however now the motherboard appears to be toast also. The troubleshooting process continues, slow, steady, and unproductive so far. In the meantime it's all laptops for all the streaming.
+
 **Specifications**
 
 * 4.0 GHz i7-6850K (3.6 up to 4.0 GHz – 15 MB Cache – 6 Cores – 12 threads)

@@ -6,6 +6,60 @@ Video overview of my overall gear and transit setup for recording in office and 
 
 Link: https://youtu.be/oV_epAVIIcY
 
+## 2018 Dell XPS 15
+
+**Specifications**
+
+* Processor: 8th Gen Intel® Core™ i7-8750H 9MB Cache, up to 4.1 GHz, 6 Cores
+* RAM: 32GB 2x16GB DDR4-2666MHz
+* Drive: 1TB PCIe Solid State Drive
+* Video: NVIDIA® GeForce® GTX 1050Ti with 4GB GDDR5
+* Screen: 15.6" 4K Ultra HD 3840 x 2160 InfinityEdge Anti-Reflective Touch 
+
+## 2015 Mac Book Pro
+
+**Specifications**
+
+* Processor: Intel
+* RAM: 16 GB
+* Drive: 512 GB SSD
+* Video: 
+
+## 2015 Dell XPS 13
+
+* Review One: https://compositecode.blog/2015/07/22/the-latest-5th-generation-dell-xps-13-developer-edition/
+* Review Two: https://compositecode.blog/2018/07/04/dell-xps-13-re-review-of-existing-laptop/
+
+**Specifications**
+
+* Processor: Intel...
+* RAM: 8 GB
+* Drive: 512 GB
+* Video: HiPDi Screen
+
+## Mics
+
+* Rode Podcaster
+* Rode NG1
+* Apogee
+
+## Cameras
+
+* Logitech HD C920
+* Logitech HD C922
+* Canon 7D 
+
+# Old Equipment Sold or No Longer Used
+
+## 2017 Mac Book Pro
+
+**Specifications**
+
+* Processor: 2.7 GHz Intel Core i7
+* RAM: 16 GB 2133 MHz LPDDR3
+* Drive: 512 GB SSD
+* Video: Intel HD Graphics 530 1536 MB @ 15.4" 2880x1880
+
 ## 2017 System 76 Leopard Workstation
 
 Review: https://compositecode.blog/2017/01/19/buying-a-leopard/
@@ -21,45 +75,3 @@ Sadly, as of last week (cember 15th~) this machine's power supply arced out over
 * Gigabit Ethernet
 * Audio Rear: 8 channel (HDMI, S/PDIF), Mic Jack, Line In, Line Out
 * Power Supply 750 W 80+ Certified
-
-## 2015 Mac Book Pro
-
-**Specifications**
-
-* Processor: 
-* RAM: 
-* Drive: 512 GB SSD
-* Video: 
-
-## 2017 Mac Book Pro
-
-**Specifications**
-
-* Processor: 2.7 GHz Intel Core i7
-* RAM: 16 GB 2133 MHz LPDDR3
-* Drive: 512 GB SSD
-* Video: Intel HD Graphics 530 1536 MB @ 15.4" 2880x1880
-
-## 2015 Dell XPS 13
-
-* Review One: https://compositecode.blog/2015/07/22/the-latest-5th-generation-dell-xps-13-developer-edition/
-* Review Two: https://compositecode.blog/2018/07/04/dell-xps-13-re-review-of-existing-laptop/
-
-**Specifications**
-
-* Processor: 
-* RAM: 
-* Drive: 
-* Video: HiPDi Screen
-
-## Mics
-
-* Rode Podcaster
-* Rode NG1
-* Apogee
-
-## Cameras
-
-* Logitech HD C920
-* Logitech HD C922
-* Canon 7D 

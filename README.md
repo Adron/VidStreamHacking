@@ -1,6 +1,6 @@
 # Video Streaming
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub issues](https://img.shields.io/github/issues/Adron/VidStreamHacking.svg)](https://GitHub.com/Adron/VidStreamHacking/issues/) 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Adron/VidStreamHacking.svg)](https://GitHub.com/Adron/VidStreamHacking/graphs/contributors/) [![GitHub issues](https://img.shields.io/github/issues/Adron/VidStreamHacking.svg)](https://GitHub.com/Adron/VidStreamHacking/issues/) 
 
 * Twitch https://twitch.tv/adronhall
 * YouTube https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ

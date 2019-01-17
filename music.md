@@ -4,8 +4,8 @@ There isn't a lot in life that drives me forward and fuels me up like music. Spe
 
 ... I'm currently researching each of these, so will have more details coming soon ...
 
-http://streamersquare.com/tools/music/
-https://machinimasound.com/
+* http://streamersquare.com/tools/music/
+* https://machinimasound.com/
 
 Other articles
 

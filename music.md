@@ -10,3 +10,4 @@ There isn't a lot in life that drives me forward and fuels me up like music. Spe
 Other articles
 
 * http://streamersquare.com/tools/music/
+* https://player.epidemicsound.com

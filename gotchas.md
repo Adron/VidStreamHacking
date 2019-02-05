@@ -12,3 +12,4 @@
 # Gotchas for Linux 
 
 * None yet, got any, throw in a pull request!  :)
+* Sometimes "Browser Source" isn't available. It appears that one possible solution is to install the plugin manually [here](https://github.com/bazukas/obs-qtwebkit).

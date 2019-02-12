@@ -4,8 +4,9 @@
 
 This is a basic checklist of the things I go through before acutally starting any new stream.
 
- - [ ] Verify that OBS has the appropriate key setup for the stream.
- - [ ] Are all monitors set to the appropriate resolution.
+ - [ ] Does OBS have the appropriate key setup for the stream?
+ - [ ] If multiple monitors, or VM screen, are they all set to the appropriate resolution and configured appropriately with overlays and such?
+ - [ ] Is the chat window open and ready for monitoring autonomous of needing to switch into the dashboard or stream?
  - [ ] Are all webcams running and actually set in position and available for transitioning?
  - [ ] Does OBS have the appropriate *sources* setup for the appropriate *scenes* for each respective transition.
  - [ ] Mic check all the mics:

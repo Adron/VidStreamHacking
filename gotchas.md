@@ -7,7 +7,7 @@
 
 # Gotchas for MacOS
 
-* The audio is an oddball on MacOS, be sure to setup the """ plugin for adding audio from the machine itself, in other works to pick up video chat audio, game audio, or application audio itself from the machine this plugin is needed.
+* The audio is an oddball on MacOS, be sure to setup the "[Capture Audio with iShowU Audio Capture](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/)" plugin for adding audio from the machine itself, in other works to pick up video chat audio, game audio, or application audio itself from the machine this plugin is needed.
 
 # Gotchas for Linux 
 

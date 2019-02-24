@@ -15,6 +15,9 @@ This is a repo of notes and related things per my Twitch streaming. I'll keep an
 * [Music](music.md) - Music streaming services that'll help keep your audio from being muted by Twitch/YouTube, etc.
 * [Gotchas](gotchas.md) - Things that don't always make sense, that cause problems, and just we need to be aware of when streaming via various operating systems. So far I've started this list covering some MacOS and Windows gotachase, and adding Linux gotchas as they appear.
 * [Culture](culture.md) - Adding a culture document, i.e. as [Ambrose](https://en.wikipedia.org/wiki/Ambrose) wrote, "[When in Rome, do as the Romans do](https://en.wikipedia.org/wiki/When_in_Rome,_do_as_the_Romans_do)".
+* [Streaming Meetups](meetup.md) - A few notes, ideas, thoughts, checklist additions, and related material around video streaming meetups.
+* [Discord](discord.md) - Another tool routinely used by gamers for chat, push button talk, video chat, and other features and capabilities.
+* [Curated List of Coding Streamers](curated-list.md) - This is a list I've put together around some of the streamers I specifically aim to watch.
 
 ## Scheduling
 

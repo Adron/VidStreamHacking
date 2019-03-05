@@ -14,7 +14,8 @@ These are listed in an order to ensure they're effective and useful to those pro
 9. **))** If you've got an active Discord, then post it there too. I use restream.io for that.
 10. Use multi-stream to stream to more than a few single channgels with [restream.io](https://restream.io/). Don't do this however if you want to monetize any of the streams, I believe it's often against the rules.
 11. **))** Get a pull request in at the [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
-12. **))** Sign up and get listed on [shipstreams](https://shipstreams.com).
+12. **))** Sign up and get listed on [shipstreams](https://shipstreams.com) ex: [adron](https://shipstreams.com/adron).
+13. Get listed on [StreamElement](https://streamelements.com) ex: [adronhall](https://streamelements.com/adronhall).
 
 *Other Possible Mediums (I'm still researching their efficacy)*
 

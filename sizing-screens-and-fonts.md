@@ -1,4 +1,4 @@
-# Fonts
+# Sizing, Screens, Readability, and Fonts
 
 Alright, this isn't specifically about fonts, but is about font sizes and readability on screen in general. The focus of this is getting things to the appropriate size so that it is easily readable in a number of IDE's. Here's what I've found for the following IDE's and tools that I commonly use.
 

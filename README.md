@@ -18,6 +18,7 @@ This is a repo of notes and related things per my Twitch streaming. I'll keep an
 * [Streaming Meetups](meetup.md) - A few notes, ideas, thoughts, checklist additions, and related material around video streaming meetups.
 * [Discord](discord.md) - Another tool routinely used by gamers for chat, push button talk, video chat, and other features and capabilities.
 * [Curated List of Coding Streamers](curated-list.md) - This is a list I've put together around some of the streamers I specifically aim to watch.
+* [Meetup Streaming Kit Gear](meetup-streaming-kit-gear.md) - This is a list of gear I've put together for streaming meetups, or related events where there is a speaker and their respective slide deck. This gear will allow good sound and the ability to capture that slide deck for the stream!
 
 ## Scheduling
 

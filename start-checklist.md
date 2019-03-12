@@ -15,5 +15,5 @@ This is a basic checklist of the things I go through before acutally starting an
     - [ ] Rode Shotgun NTG1 http://en.rode.com/microphones/ntg-1
     - [ ] WebCam Mic(s)
  - [ ] Sound check setup appropriately for the OS (ala MacOS and it's odd need for [this](https://obsproject.com/forum/resources/os-x-capture-audio-with-ishowu-audio-capture.505/))
-- [ ] Are all files, media files, and related collateral ready for transitions?
-- [ ] Any other sccripts, checklists, or other items available within easy reach?
+ - [ ] Are all files, media files, and related collateral ready for transitions?
+ - [ ] Any other sccripts, checklists, or other items available within easy reach?

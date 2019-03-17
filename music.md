@@ -8,7 +8,6 @@ There isn't a lot in life that drives me forward and fuels me up like music. Spe
 
 * https://www.pretzel.rocks
 * https://player.epidemicsound.com
-* http://streamersquare.com/tools/music/
 * https://machinimasound.com/
 
 Other articles
@@ -18,3 +17,7 @@ Other articles
 ## Epidemic Sound
 
 * [https://player.epidemicsound.com](* https://player.epidemicsound.com)
+
+## Pretzel Rocks
+
+* [https://www.pretzel.rocks](https://www.pretzel.rocks)

@@ -17,4 +17,4 @@ Other articles
 
 ## Epidemic Sound
 
-[* https://player.epidemicsound.com](* https://player.epidemicsound.com)
+* [https://player.epidemicsound.com](* https://player.epidemicsound.com)

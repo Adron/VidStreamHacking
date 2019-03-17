@@ -6,10 +6,15 @@ There isn't a lot in life that drives me forward and fuels me up like music. Spe
 
 ... I'm currently researching each of these, so will have more details coming soon ...
 
+* https://www.pretzel.rocks
+* https://player.epidemicsound.com
 * http://streamersquare.com/tools/music/
 * https://machinimasound.com/
 
 Other articles
 
 * http://streamersquare.com/tools/music/
-* https://player.epidemicsound.com
+
+## Epidemic Sound
+
+[* https://player.epidemicsound.com](* https://player.epidemicsound.com)

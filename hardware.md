@@ -8,6 +8,12 @@ Link: https://youtu.be/oV_epAVIIcY
 
 ## 2018 Dell XPS 15
 
+Some details on this machine, I wrote two posts so far getting this laptop operational:
+
+* [I Got a New Laptop, Here's the Review](https://compositecode.blog/2018/12/30/got-a-new-laptop-heres-the-review/)
+* [Unboxing Video](https://youtu.be/f0z1chi4v1Q)
+* [Windows 10 Path of Desctruction and Garbage Support for Linux from Dell](https://compositecode.blog/2019/02/04/windows-10s-path-of-destruction-and-garbage-support-for-linux-from-dell/)
+
 **Specifications**
 
 * Processor: 8th Gen Intel® Core™ i7-8750H 9MB Cache, up to 4.1 GHz, 6 Cores

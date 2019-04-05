@@ -16,8 +16,8 @@ Other articles
 
 ## Epidemic Sound
 
-* [https://player.epidemicsound.com](* https://player.epidemicsound.com)
+* [https://player.epidemicsound.com](https://player.epidemicsound.com) - The library, specifically for metal, was pretty solid. Not as many different artists as I'd have liked, but overall pretty solid based on what I have seen available so far.
 
 ## Pretzel Rocks
 
-* [https://www.pretzel.rocks](https://www.pretzel.rocks)
+* [https://www.pretzel.rocks](https://www.pretzel.rocks) - So far this has been fun, it's wildly easy to set up, but I have had issues getting much beyond a single "metal" album worth of music to play during streams. So far the metal category seems somewhat bleak. I've been tweaking around and searching for ways to get better results but it seems slightly limited so far.

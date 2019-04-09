@@ -6,6 +6,20 @@ Video overview of my overall gear and transit setup for recording in office and 
 
 Link: https://youtu.be/oV_epAVIIcY
 
+## Mouse & Keyboard Options
+
+I use a number of keyboards and mice, trackballs, etc depending on what I am doing at a particular time. When remote in a coffee shop and I need a solid pointer option, I use a trackball. I don't need to move it all over a space like a mouse, and it's not as annoying as a trackpad. For any office style environment, at home or at an actual office, I use a silent mouse with high DPI or a gaming mouse with click and mechanical keyboard if it isn't necessary to be super silent. I've broken out the gear below into the respective options for each environment, by environment.
+
+* Coffee Shop or Remote Co-working Office with limited desk space.
+  * Logitech m570 Wireless Trackball - https://www.logitech.com/en-us/product/wireless-trackball-m570
+  * Keyboard - That which is on the laptop, generally either a Macbook Pro 2015 Chicklet Keyboard, XPS 13, or XPS 15 Keyboard.
+* Office - Where keyboard and click sounds aren't an issue.
+  * Razor Huntsman Mechanical Keyboard - https://www.razer.com/gaming-keyboards-keypads/razer-huntsman
+  * Razor Naga Trinity Gaming Mouse - https://www.razer.com/gaming-mice/razer-naga-trinity and Drivers https://openrazer.github.io/
+* Office - Where silence is important.
+  * Logitech m331 Silent Wireless Mouse - https://compositecode.blog/2018/01/29/logitech-m331-silent-mouse/
+  * Microsoft 4000 Ergo Keyboard - https://www.microsoft.com/accessories/en-us/products/keyboards/natural-ergonomic-keyboard-4000/b2m-00012 Albeit I must say this keyboard isn't as silent as I'd like, because I routinely find myself pressing the keys very hard. Banging away does not a quite keyboard make.  :-/
+
 ## 2018 Dell XPS 15
 
 Some details on this machine, I wrote two posts so far getting this laptop operational:

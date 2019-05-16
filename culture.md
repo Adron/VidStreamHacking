@@ -13,3 +13,15 @@ Chat works a bunch of different ways depending on what you're watching (i.e. gam
 ## Raid / Raiding
 
 A raid is a specific Twitch feature. If you're streaming, and wrapping up, a fun thing to do is to raid another person's stream that is currently active. In chat, the command follows the `/raid @userNameHere` structure. The idea is, you help out fellow streamers by raiding their channel when you're done and they will then sometimes raid your channel and bring their viewers on to your active stream. Repeat, vice versa and it's just a fun addition that becomes a notable activity to undertake while streaming.
+
+## Great Clipped Twitch Moments
+
+* https://clips.twitch.tv/GeniusCovertTortoiseMcaT
+* https://clips.twitch.tv/TawdryDiligentKeyboardCmonBruh
+* https://clips.twitch.tv/SpotlessToughLardBIRB
+* https://clips.twitch.tv/ZanyLivelyPassionfruitStoneLightning
+* https://clips.twitch.tv/HilariousNastyNigiriTF2John
+* https://clips.twitch.tv/FrozenInquisitiveMeatloafStoneLightning
+* https://clips.twitch.tv/RealAdorableDoveDansGame
+* https://clips.twitch.tv/SavageEphemeralCaterpillarRlyTho
+* https://clips.twitch.tv/DaintyKathishDuckOptimizePrime

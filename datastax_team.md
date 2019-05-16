@@ -16,13 +16,13 @@ Twitter: [@cristina_veale](https://twitter.com/cristina_veale)
 
 Twitter: [@AmandaK_Data](https://twitter.com/AmandaK_Data)
 
-## Eric 
+## Eric Zietlow
 
 Twitter: [@EricZietlow](https://twitter.com/EricZietlow)
 
 ## Cedrick Leunven
 
-Twitter: []()
+Twitter: [@clunven](https://twitter.com/clunven)
 
 ## Aleksandr 
 
@@ -32,27 +32,37 @@ Twitter: [@HadesArchitect](https://twitter.com/HadesArchitect)
 
 Twitter: [@PatrickMcFadin](https://twitter.com/PatrickMcFadin)
 
+# DataStax SpecOp Team
+
+## Hannah Aubry
+
+Twitter: [@hannah_aubry](https://twitter.com/hannah_aubry)
+
+## Nurie
+
+## Noelle
+
 # Other DataStaxer Cohort to follow:
 
 ## Luke Tillman
 
 Twitter: [@LukeTillman](https://twitter.com/LukeTillman)
 
-## Frank P Moley
+## Marc Selwan
 
-Twitter: [@fpmoles](https://twitter.com/fpmoles)
+Twitter: [@MarcSelwan](https://twitter.com/MarcSelwan)
 
 ## Sebastián Estévez
 
 Twitter: [@syllogistic](https://twitter.com/syllogistic)
 
+## Frank P Moley
+
+Twitter: [@fpmoles](https://twitter.com/fpmoles)
+
 ## Jim Hatcher
 
 Twitter: [@thejimhatcher](https://twitter.com/thejimhatcher)
-
-## Marc Selwan
-
-Twitter: [@MarcSelwan](https://twitter.com/MarcSelwan)
 
 ## Jeremy Hanna
 
@@ -73,3 +83,19 @@ Twitter: [@jlacefie](https://twitter.com/jlacefie)
 ## Chelsea Navo
 
 Twitter: [@mazdagirluk](https://twitter.com/mazdagirluk)
+
+## Donnie
+
+Twitter: [@linuxgeek77](https://twitter.com/linuxgeek77)
+
+## Nico
+
+Twitter: [@NicoDataStax1](https://twitter.com/NicoDataStax1)
+
+## Wei
+
+Twitter: [@weideng](https://twitter.com/weideng)
+
+##
+
+Twitter: [@tolbertam](https://twitter.com/tolbertam)

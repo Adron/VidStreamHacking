@@ -18,7 +18,7 @@ Twitter: [@AmandaK_Data](https://twitter.com/AmandaK_Data)
 
 ## Eric 
 
-Twitter: []()
+Twitter: [@EricZietlow](https://twitter.com/EricZietlow)
 
 ## Cedrick Leunven
 
@@ -26,7 +26,7 @@ Twitter: []()
 
 ## Aleksandr 
 
-Twitter: []()
+Twitter: [@HadesArchitect](https://twitter.com/HadesArchitect)
 
 ## Patrick McFadin
 
@@ -65,3 +65,11 @@ Twitter: [@RussSpitzer](https://twitter.com/RussSpitzer)
 ## Denise K Gosnell
 
 Twitter: [@DeniseKGosnell](https://twitter.com/DeniseKGosnell)
+
+## Jonothan Lacefield
+
+Twitter: [@jlacefie](https://twitter.com/jlacefie)
+
+## Chelsea Navo
+
+Twitter: [@mazdagirluk](https://twitter.com/mazdagirluk)

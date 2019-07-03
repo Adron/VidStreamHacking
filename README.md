@@ -27,5 +27,5 @@ My current schedule is listed on my Twitch account under [events](https://www.tw
 
 ## Other Streams
 
-* [DataStax Academy](https://twitch.tv/datastaxacademy/)
+* [DataStax Devs](https://twitch.tv/datastaxdevs/)
 * [awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)

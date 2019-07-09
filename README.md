@@ -9,7 +9,6 @@
 
 This is a repo of notes and related things per my Twitch streaming. I'll keep an index of the particular files listed here in this README.md.
 
-* [Startup Checklist](start-checklist.md) - The checklist I go through as part of the routine for kick starting the stream.
 * [Recording Gear / Hardware](hardware.md) - Gear I specifically use for my stream.
 * [Advocate](advocate.md) - Where to tell people about what you're coding on your stream.
 * [Music](music.md) - Music streaming services that'll help keep your audio from being muted by Twitch/YouTube, etc.
@@ -17,9 +16,12 @@ This is a repo of notes and related things per my Twitch streaming. I'll keep an
 * [Culture](culture.md) - Adding a culture document, i.e. as [Ambrose](https://en.wikipedia.org/wiki/Ambrose) wrote, "[When in Rome, do as the Romans do](https://en.wikipedia.org/wiki/When_in_Rome,_do_as_the_Romans_do)".
 * [Streaming Meetups](meetup.md) - A few notes, ideas, thoughts, checklist additions, and related material around video streaming meetups.
 * [Discord](discord.md) - Another tool routinely used by gamers for chat, push button talk, video chat, and other features and capabilities.
-* [Curated List of Coding Streamers](curated-list.md) - This is a list I've put together around some of the streamers I specifically aim to watch.
 * [Meetup Streaming Kit Gear](meetup-streaming-kit-gear.md) - This is a list of gear I've put together for streaming meetups, or related events where there is a speaker and their respective slide deck. This gear will allow good sound and the ability to capture that slide deck for the stream!
-* [Post Stream Actions](post-video.md) - These are some actions to take just after the stream to ensure content, follow up material, and archive of the video is done.
+
+### Pre & Post Stream Checklists
+
+* [Startup Checklist & Actions](start-checklist.md) - The checklist I go through as part of the routine for kick starting the stream.
+* [Post Stream Checklist & Actions](post-video.md) - These are some actions to take just after the stream to ensure content, follow up material, and archive of the video is done.
 
 ## Scheduling
 

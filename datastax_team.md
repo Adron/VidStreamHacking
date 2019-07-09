@@ -12,10 +12,6 @@ Twitter: [@SonicDMG](https://twitter.com/SonicDMG)
 
 Twitter: [@cristina_veale](https://twitter.com/cristina_veale)
 
-## Amanda Moran
-
-Twitter: [@AmandaK_Data](https://twitter.com/AmandaK_Data)
-
 ## Eric Zietlow
 
 Twitter: [@EricZietlow](https://twitter.com/EricZietlow)

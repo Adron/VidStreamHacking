@@ -20,12 +20,8 @@ Once you raid, as one may suspect, it's a polite gesture for those being raided 
 
 ## Great Clipped Twitch Moments
 
-* https://clips.twitch.tv/GeniusCovertTortoiseMcaT
 * https://clips.twitch.tv/TawdryDiligentKeyboardCmonBruh
-* https://clips.twitch.tv/SpotlessToughLardBIRB
-* https://clips.twitch.tv/ZanyLivelyPassionfruitStoneLightning
 * https://clips.twitch.tv/HilariousNastyNigiriTF2John
 * https://clips.twitch.tv/FrozenInquisitiveMeatloafStoneLightning
-* https://clips.twitch.tv/RealAdorableDoveDansGame
-* https://clips.twitch.tv/SavageEphemeralCaterpillarRlyTho
+* [Talking Plants](https://clips.twitch.tv/RealAdorableDoveDansGame)
 * https://clips.twitch.tv/DaintyKathishDuckOptimizePrime

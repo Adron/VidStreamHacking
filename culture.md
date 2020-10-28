@@ -14,6 +14,10 @@ Chat works a bunch of different ways depending on what you're watching (i.e. gam
 
 A raid is a specific Twitch feature. If you're streaming, and wrapping up, a fun thing to do is to raid another person's stream that is currently active. In chat, the command follows the `/raid @userNameHere` structure. The idea is, you help out fellow streamers by raiding their channel when you're done and they will then sometimes raid your channel and bring their viewers on to your active stream. Repeat, vice versa and it's just a fun addition that becomes a notable activity to undertake while streaming.
 
+## Raid Courtesy
+
+Once you raid, as one may suspect, it's a polite gesture for those being raided to ask how the stream went. Give a concise answer, don't go on and on about it. This is an opportunity to mention what you were up to and then get involved in the stream you just raided. Comment, banter, or whatever. On the same turn, when someone raids your channel, be sure to inquire how their stream went. You may, even want to ask them a few questions about what they just accomplished. After all, much of this guide is written in the context of streaming around programming, or the process of actually building or doing something. Not to leave games out, but gaming itself is the creative process of actually doing something, so don't knock it either! There could easily be conversations and knowledge to be gained!
+
 ## Great Clipped Twitch Moments
 
 * https://clips.twitch.tv/GeniusCovertTortoiseMcaT

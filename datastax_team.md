@@ -1,4 +1,4 @@
-# Fellow DataStax Team Cohort
+# Fellow DataStax Team Cohort Circa 2019
 
 ## Jeff Carpenter
 

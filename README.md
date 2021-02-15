@@ -25,7 +25,7 @@ This is a repo of notes and related things per my Twitch streaming. I'll keep an
 
 ## Scheduling
 
-My current schedule is listed on my Twitch account under [events](https://www.twitch.tv/adronhall/events).
+Currently I've not got a set stream schedule but did post a few of the events I'm streaming [here](https://compositecode.blog/2021/01/10/first-quarter-workshops-code-sessions-twitch-streaming-schedule/) for first quarter of 2021. I'll be introducing the March start of multiple #100daysofcode sessions very soon.
 
 ## Other Streams
 

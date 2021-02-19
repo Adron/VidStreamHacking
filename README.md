@@ -5,7 +5,7 @@
 [![Twitter @Adron](https://img.shields.io/twitter/follow/adron.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=adron) [![Twitter @ThrashingCode](https://img.shields.io/twitter/follow/ThrashingCode.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=ThrashingCode)
 
 * [Twitch https://twitch.tv/thrashingcode](https://twitch.tv/thrashingcode)
-* [YouTube https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ](https://www.youtube.com/channel/UCHSCXYCMOOS-VSUdRsn13GQ)
+* [YouTube https://www.youtube.com/thrashingcode](https://www.youtube.com/thrashingcode)
 
 This is a repo of notes and related things per my Twitch streaming. I'll keep an index of the particular files listed here in this README.md.
 
